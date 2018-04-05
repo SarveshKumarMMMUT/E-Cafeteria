@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#grad {
+    background: linear-gradient(#fcfdfe, #8f8f9e);
+}
+
+.header {
+    background: rgb(59, 89, 152);
+    height: 100px;
+    position: absolute;
+    width: 100%;
+
+}
+
+.r:hover {
+    opacity: .4;
+   
+}
+
+
+
+
+#fb {
+    color: white;
+    font-size: 48px;
+    margin-left: 250px;
+    margin-top: 25px;
+    font-family: monospace;
+    font-weight: bolder;
+    letter-spacing: -1.5px;
+
+}
+
+.email {
+    color: white;
+    margin-top: 12px;
+    font-size: 1.3em;
+
+}
+
+#ab {
+    font-family: monospace;
+    color: rgb(59, 89, 152);
+    letter-spacing: -1px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+#reg {
+    display: table;
+}
+
+.row {
+    display: table-row;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    background: white;
+    height: 100px;
+    bottom: 0;
+}
+
+
+
+.i:hover {
+    opacity: 0.4;
+    background: sivler;
+    cursor: pointer;
+
+
+}
